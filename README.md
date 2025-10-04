@@ -1,1 +1,3 @@
-Hello GitHub, ini adalah repository pertama saya.
+Hello GitHub, ini adalah repository pertama.
+
+Ini fitur 1
