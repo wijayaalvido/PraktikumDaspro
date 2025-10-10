@@ -11,7 +11,9 @@ public static void main(String[] args) {
     if (uktLunas) {
         System.out.println("Pembayaran UKT terferivikasi");
         System.out.println("Silahkan cetak KRS dan minta tanda tangan DPA");
-    
+        } else {
+        System.out.println("Registrasi ditolak");
+        System.out.println("Silahkan lunasi UKT terlebih dahulu");
         }
     }
 }
